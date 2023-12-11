@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702301557761,1698,HTTP Request,200,OK,Users10 1-1,text,true,,205535,242,2,2,https://sabordelavida.ru/,185,0,93
+1702301557761,193,HTTP Request-0,301,Moved Permanently,Users10 1-1,text,true,,675,121,2,2,http://sabordelavida.ru/,185,0,93
+1702301557958,1501,HTTP Request-1,200,OK,Users10 1-1,text,true,,204860,121,2,2,https://sabordelavida.ru/,1305,0,1219
+1702301559413,747,HTTP Request,200,OK,Users10 1-2,text,true,,205535,242,1,1,https://sabordelavida.ru/,182,0,51
+1702301559413,182,HTTP Request-0,301,Moved Permanently,Users10 1-2,text,true,,675,121,1,1,http://sabordelavida.ru/,182,0,51
+1702301559596,564,HTTP Request-1,200,OK,Users10 1-2,text,true,,204860,121,1,1,https://sabordelavida.ru/,367,0,199
+1702301561413,681,HTTP Request,200,OK,Users10 1-3,text,true,,205535,242,1,1,https://sabordelavida.ru/,130,0,55
+1702301561413,130,HTTP Request-0,301,Moved Permanently,Users10 1-3,text,true,,675,121,1,1,http://sabordelavida.ru/,130,0,55
+1702301561544,550,HTTP Request-1,200,OK,Users10 1-3,text,true,,204860,121,1,1,https://sabordelavida.ru/,412,0,260
+1702301563419,741,HTTP Request,200,OK,Users10 1-4,text,true,,205535,242,1,1,https://sabordelavida.ru/,129,0,58
+1702301563419,129,HTTP Request-0,301,Moved Permanently,Users10 1-4,text,true,,675,121,1,1,http://sabordelavida.ru/,129,0,58
+1702301563549,611,HTTP Request-1,200,OK,Users10 1-4,text,true,,204860,121,1,1,https://sabordelavida.ru/,420,0,175
+1702301565411,650,HTTP Request,200,OK,Users10 1-5,text,true,,205535,242,1,1,https://sabordelavida.ru/,168,0,54
+1702301565411,168,HTTP Request-0,301,Moved Permanently,Users10 1-5,text,true,,675,121,1,1,http://sabordelavida.ru/,168,0,54
+1702301565581,480,HTTP Request-1,200,OK,Users10 1-5,text,true,,204860,121,1,1,https://sabordelavida.ru/,292,0,200
+1702301567409,557,HTTP Request,200,OK,Users10 1-6,text,true,,205535,242,1,1,https://sabordelavida.ru/,129,0,51
+1702301567409,129,HTTP Request-0,301,Moved Permanently,Users10 1-6,text,true,,675,121,1,1,http://sabordelavida.ru/,129,0,51
+1702301567540,426,HTTP Request-1,200,OK,Users10 1-6,text,true,,204860,121,1,1,https://sabordelavida.ru/,253,0,180
+1702301569412,603,HTTP Request,200,OK,Users10 1-7,text,true,,205535,242,1,1,https://sabordelavida.ru/,125,0,56
+1702301569412,125,HTTP Request-0,301,Moved Permanently,Users10 1-7,text,true,,675,121,1,1,http://sabordelavida.ru/,125,0,56
+1702301569538,477,HTTP Request-1,200,OK,Users10 1-7,text,true,,204860,121,1,1,https://sabordelavida.ru/,331,0,197
+1702301571409,567,HTTP Request,200,OK,Users10 1-8,text,true,,205535,242,1,1,https://sabordelavida.ru/,130,0,59
+1702301571409,130,HTTP Request-0,301,Moved Permanently,Users10 1-8,text,true,,675,121,1,1,http://sabordelavida.ru/,130,0,59
+1702301571540,436,HTTP Request-1,200,OK,Users10 1-8,text,true,,204860,121,1,1,https://sabordelavida.ru/,253,0,177
+1702301573405,750,HTTP Request,200,OK,Users10 1-9,text,true,,205535,242,1,1,https://sabordelavida.ru/,211,0,56
+1702301573405,211,HTTP Request-0,301,Moved Permanently,Users10 1-9,text,true,,675,121,1,1,http://sabordelavida.ru/,211,0,56
+1702301573617,538,HTTP Request-1,200,OK,Users10 1-9,text,true,,204860,121,1,1,https://sabordelavida.ru/,346,0,254
+1702301575407,619,HTTP Request,200,OK,Users10 1-10,text,true,,205535,242,1,1,https://sabordelavida.ru/,163,0,58
+1702301575407,163,HTTP Request-0,301,Moved Permanently,Users10 1-10,text,true,,675,121,1,1,http://sabordelavida.ru/,163,0,58
+1702301575571,455,HTTP Request-1,200,OK,Users10 1-10,text,true,,204860,121,1,1,https://sabordelavida.ru/,304,0,175
